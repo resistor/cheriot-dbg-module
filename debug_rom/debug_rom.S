@@ -1,5 +1,8 @@
 // See LICENSE.SiFive for license details.
 
+// Conversion to CHERIoT Ibex ISA from RISC-V
+//   Copyright SCI Semiconductor 2025
+
 #include "encoding.h"
 
 // The debugger can assume as second scratch register.

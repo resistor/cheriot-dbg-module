@@ -1,5 +1,8 @@
 // See LICENSE for license details.
 
+// Conversion to CHERIoT Ibex ISA from RISC-V
+//   Copyright SCI Semiconductor 2025
+
 #ifndef RISCV_CSR_ENCODING_H
 #define RISCV_CSR_ENCODING_H
 

@@ -1,5 +1,8 @@
 # See LICENSE.SiFive for license details
 
+// Conversion to CHERIoT Ibex ISA from RISC-V
+//   Copyright SCI Semiconductor 2025
+
 debug_rom = debug_rom.sv debug_rom.dump
 
 CXX=${CHERIOT_LLVM_ROOT}/clang++
