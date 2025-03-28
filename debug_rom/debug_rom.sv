@@ -1,4 +1,4 @@
-/* 
+/*
  * Conversion to CHERIoT Ibex ISA from RISC-V
  *   Copyright SCI Semiconductor 2025
  *
